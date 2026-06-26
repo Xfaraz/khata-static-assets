@@ -1,0 +1,1 @@
+# khata-static-assets
